@@ -1,7 +1,1 @@
-{
-  "extends": ["html-validate:recommended",
-    "my-npm-package",
-    "my-plugin:custom",
-    "./file"
-	]
-}
+npm exec html-validate index.html
